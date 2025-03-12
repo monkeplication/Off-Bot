@@ -1,4 +1,9 @@
-# Off-Bot
+   OOO   FFFFFF  FFFFFF     BBBBB   OOO   TTTTTTT
+  O   O  F       F          B    B O   O     T   
+  O   O  FFFF    FFFF       BBBBB  O   O     T   
+  O   O  F       F          B    B O   O     T   
+   OOO   F       F          BBBBB   OOO      T   
+
 
 Off-Bot is a Student Management System designed for tutors to manage student data, exam datesheets, leave applications, and generate certificates. It also features a data-driven chat interface for querying student-related information.
 
