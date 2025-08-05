@@ -14,7 +14,7 @@ A simple yet powerful tool for tutors to manage student records, exam datesheets
 
 ## 🚀 Features
 - Manage Student Records
-- Exam Datesheet Management
+- Exam Data Management
 - Leave Application Handling
 - Certificate Generation
 - Data-Driven Chat Interface
